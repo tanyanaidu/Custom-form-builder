@@ -1,14 +1,18 @@
 **Task 1**
+
 **Task Summary**
+
 Build a custom form builder with 3 unique types of questions as mentioned below.
 
 **Task deliverables**
+
 A UI (User Interface) of a custom form editor in which we can edit the form and save them into the database.
 The form will have a preview/fill link where the users can fill in the form questions and their response should be saved in your backend. 
 Everything should be saved into Mongodb with proper schemas.
 
 
 **Custom-form-builder**
+
 Build a custom form builder with 3 unique types of questions:
 1. Categorize
 2. Cloze
@@ -36,7 +40,6 @@ This project is a custom form builder application that allows users to create fo
 **Inspiration**
 
 The UI design of the form builder takes inspiration from various form builders like Typeform and Paperform while incorporating innovative elements.
-
 I would like to thank BoloForms and Auto Proctor for inspiring this project.
 
 
